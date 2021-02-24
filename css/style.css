@@ -6,7 +6,7 @@
      background-color: black;
      color: white;
      font-family: Verdana, Arial, Tahoma, Serif;
-     background-image: url(../images/flamingos.jpg);
+     background-image: url(../images/flamingo.jpg);
      -webkit-background-size: cover;
      -moz-background-size: cover;
      -o-background-size: cover;
@@ -28,7 +28,7 @@
  
  h1 {
      font-size: 40px;
-     color: #a82877;
+     color: black;
      font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
      text-align: center;
      text-shadow: #fff;
@@ -48,12 +48,13 @@
  }
  
  form {
-     width: 80%;
+     width: 60%;
      padding: 20px;
+     margin-left: 10%;
+     margin-right: 10%;
      border-radius: 6px;
      background: transparent;
      box-shadow: 0 0 20px 0 #a82877;
-     float: center;
  }
  
  button {
@@ -94,7 +95,7 @@
  @media screen and (min-width: 480px) {
      body {
          color: white;
-         background-image: url(../images/elephant.jpg);
+         background-image: url(../images/flamingo.jpg);
          -webkit-background-size: cover;
          -moz-background-size: cover;
          -o-background-size: cover;
